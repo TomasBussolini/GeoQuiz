@@ -1,9 +1,20 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">Canberra is the capital of
-Australia.</string>
+    <string name="question_text1">Canberra is the capital of Australia?</string>
+    <string name="question_text2">Madrid is the capital of Spain?</string>
+    <string name="question_text3">Paris is the capital of England?</string>
+    <string name="question_text4">Copenhagen is the capital of Denmark?</string>
+    <string name="question_text5">Buenos Aires is the capital of Argentina?</string>
+    <string name="question_text6">Santiago is the capital of Uruguay?</string>
+    <string name="question_text7">Ankara is the capital of Turkey?</string>
+    <string name="question_text8">Milan is the capital of Italy?</string>
+    <string name="question_text9">Tokyo is the capital of Japan?</string>
+    <string name="question_text10">Nairobi is the capital of Kenya?</string>
+    <string name="question_text11">"You have completed all the questions!\nDo you want to play again?"</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
 </resources>
